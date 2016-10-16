@@ -1,0 +1,29 @@
+Added Component: Designator=FPGA1(TSQFP50P2200X2200X160-144N_v2)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=R4(AXIAL-0.3)
+Added Component: Designator=Y1(xtal)
+Added Pin To Net: NetName=NetFPGA1_1 Pin=FPGA1-1
+Added Pin To Net: NetName=NetFPGA1_1 Pin=R2-1
+Added Net: Name=NetFPGA1_1
+Added Pin To Net: NetName=NetFPGA1_2 Pin=FPGA1-2
+Added Pin To Net: NetName=NetFPGA1_2 Pin=R1-1
+Added Net: Name=NetFPGA1_2
+Added Pin To Net: NetName=NetFPGA1_100 Pin=FPGA1-100
+Added Pin To Net: NetName=NetFPGA1_100 Pin=R4-1
+Added Net: Name=NetFPGA1_100
+Added Pin To Net: NetName=NetFPGA1_104 Pin=FPGA1-104
+Added Pin To Net: NetName=NetFPGA1_104 Pin=R3-1
+Added Net: Name=NetFPGA1_104
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=Y1-a0
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=Y1-a1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Net: Name=VCC
+Added Class: Name=Probando_libreriaCreada
+Added Room: Name=Probando_libreriaCreada
